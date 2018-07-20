@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="232.324px" height="125.253px" viewBox="0 0 232.324 125.253" enable-background="new 0 0 232.324 125.253"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 93 53.3159)" font-family="'RobotoSlab-Regular'" font-size="30">Geladeira</text>
+<text transform="matrix(1 0 0 1 93 89.3159)" font-family="'RobotoSlab-Regular'" font-size="32">do dia 20</text>
+<path fill="#1BA8C2" d="M75.634,101.966c0,6.783-5.5,12.283-12.283,12.283H21.384c-6.784,0-12.283-5.5-12.283-12.283V18.033
+	c0-6.783,5.5-12.283,12.283-12.283h41.967c6.784,0,12.283,5.5,12.283,12.283V101.966z"/>
+<polygon fill="#1BA8C2" points="21.582,120.843 18.942,110.833 21.582,100.826 26.86,100.826 29.501,110.833 26.86,120.843 "/>
+<polygon fill="#1BA8C2" points="57.624,120.843 54.984,110.833 57.624,100.826 62.902,100.826 65.542,110.833 62.902,120.843 "/>
+<line fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" x1="9.101" y1="44.001" x2="75.634" y2="44.001"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M69.001,78.333c0,0.185-0.149,0.334-0.334,0.334l0,0
+	c-0.184,0-0.332-0.149-0.332-0.334V51.666c0-0.184,0.148-0.333,0.332-0.333l0,0c0.185,0,0.334,0.149,0.334,0.333V78.333z"/>
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M68.463,36.539c0,0.07-0.059,0.128-0.128,0.128l0,0
+	c-0.071,0-0.129-0.058-0.129-0.128V26.295c0-0.07,0.059-0.128,0.129-0.128l0,0c0.069,0,0.128,0.058,0.128,0.128V36.539z"/>
+<text transform="matrix(1 0 0 1 29.2212 34.5005)" fill="#FFFFFF" font-family="'RobotoSlab-Regular'" font-size="24">20</text>
+</svg>
