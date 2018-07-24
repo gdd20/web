@@ -7,6 +7,7 @@
     "start": "if-env NODE_ENV=production && npm run -s serve || npm run -s dev",
     "build": "preact build",
     "serve": "preact build && preact serve",
+    "storybook": "start-storybook -p 9001 -c .storybook",
     "dev": "preact watch",
     "lint": "eslint src",
     "test": "jest ./tests"
@@ -18,6 +19,8 @@
     "build/*"
   ],
   "devDependencies": {
+    "@storybook/addons": "^3.4.8",
+    "@storybook/react": "^3.4.8",
     "eslint": "^4.9.0",
     "eslint-config-synacor": "^2.0.2",
     "identity-obj-proxy": "^3.0.0",
@@ -27,11 +30,18 @@
     "preact-render-spy": "^1.2.1"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "prerelease",
+    "@fortawesome/free-solid-svg-icons": "prerelease",
+    "@fortawesome/react-fontawesome": "prerelease",
     "bulma": "^0.7.1",
     "bulma-extensions": "^2.2.1",
+    "node-sass": "^4.9.2",
     "preact": "^8.2.6",
-    "preact-compat": "^3.17.0",
-    "preact-router": "^2.5.7"
+    "preact-compat": "^3.18.0",
+    "preact-router": "^2.5.7",
+    "prop-types": "^15.6.2",
+    "sass-loader": "^7.0.3",
+    "styled-jsx": "^2.2.7"
   },
   "jest": {
     "verbose": true,
