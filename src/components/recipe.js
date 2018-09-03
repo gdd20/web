@@ -33,7 +33,7 @@ class Recipe extends Component {
           </div>
     
           <div className="content">
-            {name}
+            {name.slice(0, 23) + '…'}
           </div>
         </div>
     
@@ -69,7 +69,7 @@ class Recipe extends Component {
             <section className="modal-card-body">
               <div class="content">
                 <h2>{name}</h2>
-                <p>Lorem ipsum<sup><a>[1]</a></sup> dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Sub<sub>script</sub> works as well!</p>
+                <p>Caso as informações esteja acesse diretamente a receita no <a href={link}>site</a> fonte</p>
                 <h3>Ingredientes</h3>
                 <ul>
                   {
@@ -96,7 +96,7 @@ class Recipe extends Component {
                   <a class="button is-link is-fullwidth" title="Disabled button" disabled>{portions} porções</a>
                 </div>
                 <div class="column">
-                  <a class="button is-info is-fullwidth" title="Disabled button" disabled>dificuldade {difficutly}</a>
+                  <a class="button is-info is-fullwidth" title="Disabled button" disabled>{difficutly}</a>
                 </div>
             </div>
             </section>
